@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdus Sadik Molla
 =========================================================================================================================================
 
-Engineer | Developer | Teacher
+Software Engineer | Teacher
 ------------------------------
 
 I am a Computer Science Engineer. I am also a web developer. I love learning new things about technology...
